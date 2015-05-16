@@ -1,4 +1,4 @@
-### NetworkAnomalyDetection
+### Network Anomaly Detection
 
 In this project we try to find anomalies in a time series network
 traffic using two techniques. We first model the network traffic as
